@@ -22,7 +22,7 @@ background-color: white;
 
 .upper-card {
   height: 150px;
-  background-color: pink;
+  background-color: rgb(253, 101, 190);
     border-radius: 45px 45px 0px 0px;
 }
 
@@ -103,6 +103,7 @@ padding-left: 120px;
     border-radius: 100px;
     align-items: center;
 }
+
 
 
 
