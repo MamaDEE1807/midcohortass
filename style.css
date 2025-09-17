@@ -62,11 +62,6 @@ margin-bottom: 0px;
 text-align: center;
 }
 
-.hero-name h3 {
-text-align: center;
-font-weight: bold;
-}
-
 .title {
   color: grey;
   font-family: "sofia", sans-serif;
@@ -108,3 +103,4 @@ padding-left: 120px;
     border-radius: 100px;
     align-items: center;
 }
+
