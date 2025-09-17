@@ -13,7 +13,7 @@
   height: 600px;
   width: 400px;
   max-width: 70%;
-  max-height: 100%;
+  max-height: auto;
   border: 5pt;
   border-radius: 50px;
   border-style: outset;
@@ -106,4 +106,5 @@ padding-left: 100px;
     height: 20px; 
     border-radius: 100px;
     align-items: center;
+
 }
